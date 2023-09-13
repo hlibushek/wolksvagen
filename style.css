@@ -1,1 +1,94 @@
+h1 {
+    background-color: limegreen;
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    border-left: 5px solid white;
+    border-right: 5px solid white;
+    padding: 25px 95px 25px 55px;
+    display: flex;
+    justify-content: space-between;
+    width: 600px;
+    text-align: center;
+    font-size: 115px;
+}
+h2{
+    background-color: limegreen;
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    border-left: 5px solid white;
+    border-right: 5px solid white;
+    padding: 25px 95px 25px 55px;
+    display: flex;
+    justify-content: space-between;
+    width: 600px;
+    text-align: center;
+    font-size: 115px;
+    height: 200px;
+}
+body {
+    font-family: sans-serif;
+    background-color:black;
+}
+nav {
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    border-right: 5px solid rgb(255, 255, 255);
+    padding: 25px 100px 25px 95px;
+    display: flex;
+    justify-content: space-between;
+    background-color: limegreen;
+    color:white;
+    font-size: 50px;
+    width: 1850px;
+    text-align:center;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+p {
+    font-size: 20px;
+     color: rgb(255, 255, 255);
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    border-left: 5px solid white;
+    border-right: 5px solid white;
+    background-color: limegreen;
+    height: 250px;
+}
 
+a {
+    text-decoration: none;
+    color: black;
+    border-bottom: 1px dotted black;
+    font-size: 20px;
+}
+
+.catalog {
+    width: 2500px;
+    height: 2200px; 
+    background-color: rgb(255, 255, 255); 
+}
+
+.product {
+    float: left;
+    width: 600px;
+    text-align: center;
+    padding: 10px;
+    border: 5px double rgb(0, 0, 0);
+     background-color: limegreen;
+     margin: 100px 0px 100px 85px;
+}
+img {
+      border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    border-left: 5px solid white;
+    border-right: 5px solid white;
+}
