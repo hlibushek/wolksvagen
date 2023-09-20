@@ -15,20 +15,20 @@ h1 {
 }
 h2{
     background-color: limegreen;
-    padding: 10px;
     color: rgb(255, 255, 255);
     border-top: 5px solid white;
     border-bottom: 5px solid white;
     border-left: 5px solid white;
     border-right: 5px solid white;
-    padding: 25px 95px 25px 55px;
+    padding: 181px 50px 181px 35px;
     display: flex;
     justify-content: space-between;
-    width: 600px;
+    width: 500px;
     text-align: center;
-    font-size: 115px;
-    height: 200px;
+    font-size: 120px;
+    height:auto;
 }
+
 body {
     font-family: sans-serif;
     background-color:black;
@@ -53,15 +53,18 @@ header {
     padding: 15px;
     margin-bottom: 20px;
 }
+
+}
 p {
-    font-size: 45px;
+    font-size: 60px;
      color: rgb(255, 255, 255);
     border-top: 5px solid white;
     border-bottom: 5px solid white;
     border-left: 5px solid white;
     border-right: 5px solid white;
     background-color: limegreen;
-    height: 250px;
+     height: 250px;
+
 }
 
 a {
@@ -85,10 +88,15 @@ a {
     border: 5px double rgb(0, 0, 0);
      background-color: limegreen;
      margin: 100px 0px 100px 85px;
+     opacity: 0.6;
+}
+.product:hover{
+     opacity: 1;
 }
 img {
-      border-top: 5px solid white;
-    border-bottom: 5px solid white;
-    border-left: 5px solid white;
-    border-right: 5px solid white;
+      border-top: 5px solid rgb(0, 0, 0);
+    border-bottom: 5px solid rgb(0, 0, 0);
+    border-left: 5px solid rgb(0, 0, 0);
+    border-right: 5px solid rgb(0, 0, 0);
+    
 }
